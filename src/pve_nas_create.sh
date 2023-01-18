@@ -156,7 +156,7 @@ CT_TYPE='veth'
 
 #----[CT_OTHER]
 # OS Version
-CT_OSVERSION='22.04'
+CT_OSVERSION='22.04-1'
 # CTID numeric ID of the given container.
 CTID='112'
 
